@@ -1,16 +1,32 @@
-# student_quiz_app
+# Student Quiz App 🎓
 
-A new Flutter project.
+This is a **Flutter-based Education App** where students can:
+- Attend **Quizzes** 📘  
+- Practice **Mock Exams** 📝  
+- Get instant **AI-based Doubt Clarification** 🤖  
+- Multilingual Support (**Tamil & English**) 🌐  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features (Planned & Ongoing)
+- [x] Flutter Project Setup  
+- [ ] Quiz UI with multiple choice questions  
+- [ ] AI-powered doubt solving system  
+- [ ] User authentication (Login/Signup)  
+- [ ] Dashboard with scores and progress tracking  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Frontend:** Flutter  
+- **Backend:** Firebase / FastAPI (Planned)  
+- **AI/ML:** Python, NLP Models (Planned)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📌 How to Run
+1. Clone this repo  
+   ```bash
+   git clone https://github.com/arivazhagan1994/student_quiz_app.git
+
+
