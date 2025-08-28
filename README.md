@@ -10,7 +10,7 @@ This is a **Flutter-based Education App** where students can:
 
 ## 🚀 Features (Planned & Ongoing)
 - [x] Flutter Project Setup  
-- [ ] Quiz UI with multiple choice questions  
+- [x] Quiz UI with multiple choice questions  
 - [ ] AI-powered doubt solving system  
 - [ ] User authentication (Login/Signup)  
 - [ ] Dashboard with scores and progress tracking  
